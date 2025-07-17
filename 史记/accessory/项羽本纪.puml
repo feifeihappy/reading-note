@@ -1,0 +1,26 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+title 楚汉人物关系图
+
+* 刘邦
+** 谋士
+*** 张良
+*** 萧何
+*** 陈平
+** 武将
+*** 韩信
+*** 彭越
+*** 英布
+
+
+* 项羽
+** 谋士
+*** 范增
+** 武将
+*** 钟离昧
+*** 龙且
+*** 季布
+
+
+@endmindmap
